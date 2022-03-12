@@ -1,4 +1,4 @@
-package com.app.incite.blog
+package sandy.stocktimes.blog
 
 import io.flutter.embedding.android.FlutterActivity
 

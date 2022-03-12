@@ -1,4 +1,4 @@
-package com.app.incite
+package sandy.stocktimes
 
 import io.flutter.embedding.android.FlutterActivity
 
